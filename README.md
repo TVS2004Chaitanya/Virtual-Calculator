@@ -4,9 +4,6 @@ Virtual Calculator/using open-cv/using google-generativeai
 
 This is a virtual calculator where you would virtually write the mathemetical equations on the computer screen and google-generativeai is used to calculate it. The user interface is done using streamlit
 
-# Virtual Painter
-
-**Virtual Painter** helps you to paint virtually on the screen using OpenCV and a hand tracking module. The hand tracking module helps in detecting the hand, and OpenCV functions help in virtually drawing and displaying the image.
 
 ## Features
 
