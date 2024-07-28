@@ -16,8 +16,8 @@ This is a virtual calculator where you would virtually write the mathemetical eq
 - **Multiplication**  
   <img src="https://github.com/user-attachments/assets/b449fff4-8fb5-4270-9ebe-1800fb13e0eb" width="600" alt="Virtual Painter Drawing Mode">
 
-- **Erase Mode**  
-  <img src="https://github.com/user-attachments/assets/2b103f13-f284-4e7e-aeef-e8e3f5e1dc42" width="600" alt="Virtual Eraser Mode">
+- **Division**  
+  <img src="https://github.com/user-attachments/assets/133ceac7-2391-40ce-ae86-41b92a760c6f" width="600" alt="Virtual Eraser Mode">
 
 ## How to Use
 
