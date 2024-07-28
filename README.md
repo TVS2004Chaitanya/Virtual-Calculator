@@ -41,9 +41,7 @@ This is a virtual calculator where you would virtually write the mathemetical eq
   - This text file contains the libraries required for this project.
 - **HandTrackingModule.py**
   - This python file contains the class which helps in detcting the hand and also has many helper funtions in it. Go through it once before using the project.
-- **VirtualPainter.py**
-  - This is the main code for the virtual painter application. This code contains the logic which helps to draw virtually on the screen.
 
 ##Dependecies
-- pip install -r requirements.txt
+- pip install -r requirements.txt, I suggest you to create an environment before downloading the dependencies.
 - The above command helps to install all the dependecies required.
