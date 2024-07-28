@@ -34,13 +34,17 @@ This code sets up a virtual calculator application using OpenCV, Streamlit, and 
    git clone https://github.com/TVS2004Chaitanya/Virtual-Calculator.git
    cd Virtual-Calculator
 ## Description
-- Virtual calculator uses the logic from the Virtual Painter go through it once <a href="https://github.com/TVS2004Chaitanya/Virtual-Painter">here</a>
-- **header**
-  - The header folder contains all the images required for the project.
-- **requirements.txt**
-  - This text file contains the libraries required for this project.
-- **HandTrackingModule.py**
-  - This python file contains the class which helps in detcting the hand and also has many helper funtions in it. Go through it once before using the project.
+
+- **Virtual Calculator**: This project builds upon the logic from the [Virtual Painter](https://github.com/TVS2004Chaitanya/Virtual-Painter). Please review the Virtual Painter repository for foundational concepts and implementation details.
+
+- **header**: This folder contains all the images required for the project, including the overlays for color selection.
+
+- **requirements.txt**: This text file lists all the libraries required for this project. Ensure you install these dependencies before running the application.
+
+- **HandTrackingModule.py**: This Python file contains a class for detecting hands and includes several helper functions. It's crucial to understand this module before using the project, as it forms the core of the hand tracking functionality.
+
+- **VirtualCalculator.py**: This Python file contains the main logic for the Virtual Calculator. It captures hand-drawn mathematical expressions, sends the image to Google Generative AI, and displays the processed answer.
+
 
 ##Dependecies
 - pip install -r requirements.txt, I suggest you to create an environment before downloading the dependencies.
