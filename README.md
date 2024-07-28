@@ -25,6 +25,7 @@ This is a virtual calculator where you would virtually write the mathemetical eq
 - Use both index finger and the middle finger to select the elements.
 - You can also both index finger and middle finger to be in the standby mode(Move acroos the screen without drawing).
 - Show your palm to tell the program to calculate the mathemetical equation written
+- Wait for a few seconds while the google-generativeai processes the image and gives the answer
 
 ## Setup and Usage
 
@@ -33,6 +34,7 @@ This is a virtual calculator where you would virtually write the mathemetical eq
    git clone https://github.com/TVS2004Chaitanya/Virtual-Calculator.git
    cd Virtual-Calculator
 ## Description
+- Virtual calculator uses the logic from the Virtual Painter go through it once <a href="https://github.com/TVS2004Chaitanya/Virtual-Painter">
 - **header**
   - The header folder contains all the images required for the project.
 - **requirements.txt**
