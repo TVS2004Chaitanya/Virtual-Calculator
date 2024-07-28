@@ -34,7 +34,7 @@ This is a virtual calculator where you would virtually write the mathemetical eq
    git clone https://github.com/TVS2004Chaitanya/Virtual-Calculator.git
    cd Virtual-Calculator
 ## Description
-- Virtual calculator uses the logic from the Virtual Painter go through it once <a href="https://github.com/TVS2004Chaitanya/Virtual-Painter">
+- Virtual calculator uses the logic from the Virtual Painter go through it once <a href="https://github.com/TVS2004Chaitanya/Virtual-Painter" here>
 - **header**
   - The header folder contains all the images required for the project.
 - **requirements.txt**
