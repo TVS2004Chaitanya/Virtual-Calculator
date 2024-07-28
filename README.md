@@ -2,7 +2,7 @@
 Virtual Calculator/using open-cv/using google-generativeai
 
 
-This is a virtual calculator where you would virtually write the mathemetical equations on the computer screen and google-generativeai is used to calculate it. The user interface is done using streamlit
+This code sets up a virtual calculator application using OpenCV, Streamlit, and Google's Generative AI model, Gemini 1.5 Flash. It leverages hand tracking for interaction and gesture recognition to select drawing colors and modes
 
 
 ## Features
