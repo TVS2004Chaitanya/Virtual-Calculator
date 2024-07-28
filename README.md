@@ -21,11 +21,12 @@ This code sets up a virtual calculator application using OpenCV, Streamlit, and 
 
 ## How to Use
 
-- Use your index finger to draw freely on the screen.
-- Use both index finger and the middle finger to select the elements.
-- You can also both index finger and middle finger to be in the standby mode(Move acroos the screen without drawing).
-- Show your palm to tell the program to calculate the mathemetical equation written
-- Wait for a few seconds while the google-generativeai processes the image and gives the answer
+- **Draw Freely**: Use your index finger to draw freely on the screen.
+- **Select Elements**: Use both the index finger and the middle finger to select elements.
+- **Standby Mode**: Use both the index finger and the middle finger to be in standby mode (move across the screen without drawing).
+- **Calculate Equation**: Show your palm to signal the program to calculate the mathematical equation written.
+- **Wait for Response**: Wait for a few seconds while Google Generative AI processes the image and provides the answer.
+
 
 ## Setup and Usage
 
