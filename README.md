@@ -19,6 +19,9 @@ This code sets up a virtual calculator application using OpenCV, Streamlit, and 
 - **Division**  
   <img src="https://github.com/user-attachments/assets/133ceac7-2391-40ce-ae86-41b92a760c6f" width="600" alt="Virtual Eraser Mode">
 
+
+  - You could use this for all other mathemetical equations.
+
 ## How to Use
 
 - **Draw Freely**: Use your index finger to draw freely on the screen.
