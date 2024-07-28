@@ -30,8 +30,8 @@ This is a virtual calculator where you would virtually write the mathemetical eq
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/virtual-painter.git
-   cd virtual-painter
+   git clone https://github.com/TVS2004Chaitanya/Virtual-Calculator.git
+   cd Virtual-Calculator
 ## Description
 - **header**
   - The header folder contains all the images required for the project.
